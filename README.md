@@ -14,7 +14,7 @@ You will need at least Visual Studio 2016 installation of any edition.
 
 ## Running Examples
 
-In order to be able run an example you will need access to a cloud or on premise ams-mft login. If you would like to explore either this .NETClient or the restful and don't have access to a AMS-MFT account then please contact our support team who will be happy to arrange you a free account for your testing - support@ams-ltd.com.
+In order to be able run an example you will need access to a cloud or on premise ams-mft login. If you would like to explore either this .NETClient or the RESTful API and don't have access to a AMS-MFT account then please contact our support team who will be happy to arrange you a free account for your testing - support@ams-ltd.com.
 
 ## License
 
